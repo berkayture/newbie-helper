@@ -1,0 +1,83 @@
+<html>
+   <head>
+   </head>
+   <body>
+	<p>This is paragraph.</p>
+	<p>This is another paragraph.</p> 
+	<p>This is <br/> a line break.</p>
+	<hr/>
+	<p> This is regular text </p>
+	<p><b>This is bold text</b></p>
+	<p><big>This is big text</big></p>
+	<p><i>This is italic text</i></p>
+	<p><small>This is small text</small></p>
+	<p><strong>This is strong text</strong></p>
+	<p><sub>This is subscripted text</sub></p>
+	<p><sup>This is superscripted text</sup></p>
+	<p><ins>This is inserted text</ins></p>
+	<p><del>This is deleted text</del></p>
+	<hr/>
+	<h1>This is heading 1</h1>
+	<h2>This is heading 2</h2>
+	<h3>This is heading 3</h3>
+	<h4>This is heading 4</h4>
+	<h5>This is heading 5</h5>
+	<h6>This is heading 6</h6>
+	<hr>
+	<p align="center">This text is aligned to center.</p>
+	<hr width="50px"/>
+	<hr width="50%"/>
+	<hr/>
+        <p align="center">This is a text <br />
+            
+	<hr width="10%" align="right"/>This is also a text.
+
+	</p>
+	<p align="center">
+	This is a text.
+	<hr width="50%" align="left"/>
+	</p>
+	<hr/>
+	<img src="https://avatars2.githubusercontent.com/u/52919688?s=40&v=4" alt="" height="150px" width="150px" />
+	<img src="https://avatars2.githubusercontent.com/u/52919688?s=40&v=4" alt="" height="50%" width="50%" />
+	<hr/>
+	<a href="http://www.sololearn.com" target="_blank">
+  	Learn Playing
+	</a>
+	<hr/>
+	<h4>Ordered List</h4>
+	<ol>
+		<li>Red</li>
+		<li>Green</li>
+		<li>Blue</li>
+	</ol>
+		<h4>Unordered List</h4>
+	<ul>
+		<li>Red</li>
+		<li>Green</li>
+		<li>Blue</li>
+	</ul>
+	<hr/>
+	<table border="2">
+	<tr>
+	<td bgcolor="red">Red</td>
+	<td bgcolor="blue">Blue</td>
+	<td bgcolor="green">Green</td>
+	<tr/>
+	<tr>
+	<td bgcolor="yellow">Yellow</td>
+	<td colspan="2" bgcolor="Orange">Orange</td>
+	<tr/>
+	</table>
+	<hr/>
+	<form>
+	<p>Username: <input type="text" name="username"/></p>
+	<p>Password: <input type="password" name="password"/></p>
+	<p>Cinsiyet: <input type="radio" name="gender" value="Male"/>Male <input type="radio" name="gender" value="Female"/>Female</p>
+        <input type="submit" value="Submit" /> 
+
+
+	</form>
+	</form>
+   </body>
+</html>
